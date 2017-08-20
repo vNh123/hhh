@@ -1,0 +1,50 @@
+Delivered-To: kteurhoung@gmail.com
+Received: by 10.100.141.227 with SMTP id 90csp2497855pjv;
+        Sat, 19 Aug 2017 23:16:39 -0700 (PDT)
+X-Received: by 10.107.37.207 with SMTP id l198mr12170543iol.146.1503209799600;
+        Sat, 19 Aug 2017 23:16:39 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1503209799; cv=none;
+        d=google.com; s=arc-20160816;
+        b=JW2dD4xgcIdqgF2TIhs/d6I0K5rWSBm8hjYq6bFy2JRbnBi+HdSyXqMh88uRkjr60O
+         0vqaUZRoJyqRRzDvap1t917vE12ur4ZPOPkr7NXUUYykMe3QJstltwb7CSAA2b5jhm+l
+         Toe3P/34l9fIiBg855d6LBb8d5gGxyL2oDT/XwDs4J1FK+6JsutZVMY3Mp06xywJHTX9
+         BMOmGqZsL5IPYoVbk3QYY4IAnI4iBPOT48ro/7tUJTGZuowVGhW7JrrLeAT58lfIX1M7
+         Kd5RJBkjVxEFAL0vpCPCas1gjeQJ5ehgRWJHa3QNHeAfpk66517HOg/UTdVRAh4rNvlD
+         sudw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=message-id:subject:list-unsubscribe:reply-to:to:from:date
+         :arc-authentication-results;
+        bh=haaiHBmdfQnmUJzYy3w1Kt1LA43lnbVENvXUFHxegAQ=;
+        b=FNQyN5I5AAoZcONpSMohol6RDdphOZFdXT4Ai+7zTfJaHLNcgrYBNQHzPJ8nmYC3BR
+         1k1YLKFMTfM5Y68niSzGOexxjY6lvqoyCcBpKcgDPQaYaVwhAgIEdvrFq/Q2/R18iNg1
+         oQagbyij0djbRCfHtGKThIyZUxLpy3Jq6GYmHz2sfj1hZeoELGjmNe/fGMi35GtythwC
+         cokTo3GXxmkpKkAI7EqRpMRoMF0LjCr2tXkENhRZSfi7Jz1Ht4T55LDDBn1Xw3oY1IU0
+         CX41XwlCWf3J1nyLBrAFzAa1mdoS6B9nwV7ZYDNZMWKq2iexQjm45PSHwAgURn9+VHWV
+         qDBQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of return@resourcemagonline.com designates 74.208.192.49 as permitted sender) smtp.mailfrom=return@resourcemagonline.com;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=sofra.questerat.com
+Return-Path: <return@resourcemagonline.com>
+Received: from sofra.questerat.com (facki.callenonser.com. [74.208.192.49])
+        by mx.google.com with ESMTP id e205si9745188ioa.44.2017.08.19.23.16.39
+        for <kteurhoung@gmail.com>;
+        Sat, 19 Aug 2017 23:16:39 -0700 (PDT)
+Received-SPF: pass (google.com: domain of return@resourcemagonline.com designates 74.208.192.49 as permitted sender) client-ip=74.208.192.49;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of return@resourcemagonline.com designates 74.208.192.49 as permitted sender) smtp.mailfrom=return@resourcemagonline.com;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=sofra.questerat.com
+Date: Sun, 20 Aug 2017 02:15:25 -0400 (EDT)
+Received: from localhost (127.0.0.1) by Bounce_dn id haemt416lt0l for <kteurhoung@gmail.com>; smtpDate (envelope-from <vsjwf@1and1.fr>)
+From: David <caseyQlsmith3E@sofra.questerat.com>
+To: kteurhoung@gmail.com
+Reply-To: <contact@shagonic.com>
+List-Unsubscribe: <mailto:reply@EVOUOPlo.fe>
+Subject: Hi kteurhoung
+Message-ID: <funju41ltlgizau03fgy4i51-8365hfk5pyjbmdd5rkj4hvyu952y-6f315a2ab14640c2ff4cd1c6fffc85ba-7skt3kurozlyxnodikeig6oabbxpg5nm5x@OpGJRoyB.ex>
+Content-Type: text/plain;
+
+kteurhoung!!
+
+Are you coming to the party tonight ??
+
+- Sent from my iPhone 
